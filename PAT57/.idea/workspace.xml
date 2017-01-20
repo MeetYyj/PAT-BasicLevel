@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" assignedExecutableTargets="true" buildAllGenerated="true">
     <generated>
-      <config projectName="PAT56" targetName="PAT56" />
+      <config projectName="PAT57" targetName="PAT57" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="false" GENERATION_PASS_SYSTEM_ENVIRONMENT="true">
@@ -11,8 +11,8 @@
     </ADDITIONAL_GENERATION_ENVIRONMENT>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2422cb2-7cf5-4702-b51f-ca0ab2c3ea46" name="Default" comment="" />
-    <ignored path="PAT56.iws" />
+    <list default="true" id="70229d59-6f12-47bd-a00a-0b0ed623beb2" name="Default" comment="" />
+    <ignored path="PAT57.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,7 +26,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="PAT56" />
+    <favorites_list name="PAT57" />
   </component>
   <component name="FileEditorManager">
     <leaf>
@@ -43,8 +43,8 @@
       <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            <state relative-caret-position="576">
+              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -68,7 +68,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="1985" />
     <option name="y" value="104" />
-    <option name="width" value="1835" />
+    <option name="width" value="1825" />
     <option name="height" value="2056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -100,7 +100,7 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PAT56" />
+              <option name="myItemId" value="PAT57" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -111,8 +111,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Application.PAT56">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PAT56" TARGET_NAME="PAT56" CONFIG_NAME="Debug">
+  <component name="RunManager" selected="Application.PAT57">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PAT57" TARGET_NAME="PAT57" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
@@ -120,13 +120,13 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="PAT56" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PAT56" TARGET_NAME="PAT56" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PAT56" RUN_TARGET_NAME="PAT56">
+    <configuration default="false" name="PAT57" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PAT57" TARGET_NAME="PAT57" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PAT57" RUN_TARGET_NAME="PAT57">
       <envs />
       <method />
     </configuration>
     <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
-      <item index="1" class="java.lang.String" itemvalue="Application.PAT56" />
+      <item index="1" class="java.lang.String" itemvalue="Application.PAT57" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -134,23 +134,23 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c2422cb2-7cf5-4702-b51f-ca0ab2c3ea46" name="Default" comment="" />
-      <created>1484899683460</created>
+      <changelist id="70229d59-6f12-47bd-a00a-0b0ed623beb2" name="Default" comment="" />
+      <created>1484899878743</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1484899683460</updated>
-      <workItem from="1484899684691" duration="185000" />
+      <updated>1484899878743</updated>
+      <workItem from="1484899879954" duration="1300000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="185000" />
+    <option name="totallyTimeSpent" value="1300000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1985" y="104" width="1835" height="2056" extended-state="4" />
+    <frame x="1985" y="104" width="1825" height="2056" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959128" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986301" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967606" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -196,8 +196,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        <state relative-caret-position="576">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
           <folding />
         </state>
       </provider>
